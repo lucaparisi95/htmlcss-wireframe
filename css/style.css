@@ -1,0 +1,20 @@
+body{
+    width: 512px;
+}
+.conteiner{
+    width: 512px;
+    padding: 20px;
+    border: 1px ;
+}
+.card{
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    padding: 5%;
+    margin: 10px;
+}
+hr {
+  border: none;
+  height: 5px;
+  background-color: black; 
+}
